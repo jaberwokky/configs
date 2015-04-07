@@ -1,0 +1,3 @@
+:set gui=none
+:set noscrollbars
+:set scrollbars=false
